@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052918064712",
+    "project_id": "letter-game-b9502",
+    "storage_bucket": "letter-game-b9502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052918064712:android:86aa2e349de868cb47da7d",
+        "android_client_info": {
+          "package_name": "com.letter.game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATT4IvSiD6Mo_9FHXLIubqbH9BO9SCNX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
